@@ -1,4 +1,2 @@
 # onlineTest
-一个简单的在线考试系统
-实现了管理员和用户的注册登录，管理员考试管理试卷管理题目管理发布考试信息，用户报名，考试，答题，收藏试卷题目功能
-使用的数据库为Mysql5.6，服务器为JBoss 7.1
+A simple OnlineTest ...very very bad
